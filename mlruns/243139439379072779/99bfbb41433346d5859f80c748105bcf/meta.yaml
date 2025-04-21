@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/243139439379072779/99bfbb41433346d5859f80c748105bcf/artifacts
+end_time: 1745235370242
+entry_point_name: ''
+experiment_id: '243139439379072779'
+lifecycle_stage: active
+run_id: 99bfbb41433346d5859f80c748105bcf
+run_name: serious-wolf-221
+run_uuid: 99bfbb41433346d5859f80c748105bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745235365581
+status: 3
+tags: []
+user_id: dengz
